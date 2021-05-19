@@ -1,13 +1,19 @@
-### Hey, I’m Henry 👋
+### Hello, I’m Henry 👋
 
-I'm a computer science student at the University of Waterloo
+## I am a Computer Science student at the University of Waterloo!
   
-- 👀 OOGA Booga efgeaf
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 Competetive Programmer
+- 🎵 Musician and Producer
+- ⌨ Extremely Fast Typist...
+- 💞️ may I place my Minecraft bed next to yours 👉👈
 
-<!---
-HenryZhang0/HenryZhang0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Henry Zhang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Henry Zhang | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/henry._.z/
