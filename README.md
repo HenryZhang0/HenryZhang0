@@ -3,7 +3,7 @@
 ## I am a Computer Science student at the University of Waterloo!
   
 - 💻 Competitive Programmer
-- 🎵 Musician and Producer
+- 🎵 Music Man
 - ⌨ Extremely Fast Typist...
 - 💞️ may I place my Minecraft bed next to yours 👉👈
 
