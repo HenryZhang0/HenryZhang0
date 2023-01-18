@@ -15,52 +15,44 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>📬 Description</b></td>
       <td><b>⭐ Stars</b></td>
     <td><b>📚 Stack</b></td>
-      <td><b>📬 Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/HenryZhang0/TikTokTLDR"><b>TikTokTLDR</b>
+      <td>
+        <img src="https://camo.githubusercontent.com/1abe382eb559325d0ae5171c126996e01c2dce4260443ad186e8c24d81350b02/68747470733a2f2f692e696d6775722e636f6d2f3838477776737a2e706e67"  style="max-width: 400px;height:100px;"></img>
+      <a href="https://github.com/HenryZhang0/TikTokTLDR"><b>TikTokTLDR</b></a>
+      </td>
+      <td></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://i.imgur.com/spSjbgx.png" style="max-width: 400px;height:100px;"></img>
+        <a href="https://github.com/HenryZhang0/LegoClassification"><b>ML Lego Minifigure Classifier</b></a>
+      </td>
+      <td></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://i.imgur.com/xBzUsaD.png" style="max-width: 400px;height:100px;"></img>
+        <a href="https://github.com/HenryZhang0/NaturalLanguageProcessing"><b>Twitter Natural Language Processing Model</b>
         </a>
-        <img src="https://camo.githubusercontent.com/1abe382eb559325d0ae5171c126996e01c2dce4260443ad186e8c24d81350b02/68747470733a2f2f692e696d6775722e636f6d2f3838477776737a2e706e67"></img>
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/HenryZhang0/LegoClassification"><b>ML Lego Minifigure Classifier</b>
-        </a>
-        <img src="https://i.imgur.com/spSjbgx.png"></img>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-    <td><a href="https://github.com/HenryZhang0/NaturalLanguageProcessing"><b>Twitter Natural Language Processing Model</b>
-        </a>
-        <img src=""></img>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/HenryZhang0/trivia-buzzer"><b>Trivia Buzzer</b>
-        </a>
-        <img src="https://i.imgur.com/8rELtQT.png"></img>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/HenryZhang0/Henry-s-Game-Arcade"><b>Henry's Game Arcade</b>
-        </a>
-        <img src=""></img>
+      <td>
+        <img src="https://i.imgur.com/8rELtQT.png" style="max-width: 400px;height:100px;"></img>
+        <a href="https://github.com/HenryZhang0/trivia-buzzer"><b>Trivia Buzzer</b></a>
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
@@ -69,7 +61,17 @@
     <tr>
       <td><a href="https://github.com/HenryZhang0/route-setter-app"><b>Route Setter App</b>
         </a>
-        <img src=""></img>
+        <img src="https://i.imgur.com/zwwy4kY.png"  style="max-width: 400px;height:100px;"></img>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/HenryZhang0/Henry-s-Game-Arcade"><b>Game Arcade</b>
+      <img src="https://i.imgur.com/aTkMfB3.png" style="max-width: 400px;height:100px;"></img>
+        </a>
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
