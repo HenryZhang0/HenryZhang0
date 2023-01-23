@@ -25,9 +25,16 @@
   </div>
       </td>
       <td>
-        <a href="https://github.com/HenryZhang0/TikTokTLDR">
-        <b>TikTokTLDR</b>
-        </a>
+        <div align="center">     
+          <h3 align="center">
+            <a href="https://github.com/HenryZhang0/TikTokTLDR">
+              TikTok TLDR
+            </a>
+          </h3>
+          <p align="center">
+            TikTok TLDR is a responsive web app that summarizes a  </br> user’s data by analyzing their profile and liked videos.
+          </p>
+        </div>
       </td>
       <td>
 JavaScript, React, Flask, Python</td>
@@ -39,8 +46,16 @@ JavaScript, React, Flask, Python</td>
   </a>
       </td>
       <td>
-        <a href="https://github.com/HenryZhang0/LegoClassification">
-  <b>ML Lego Minifigure Classifier</b>
+        <div align="center">     
+          <h3 align="center">
+            <a href="https://github.com/HenryZhang0/LegoClassification">
+              Lego Minifigure Classifier
+            </a>
+          </h3>
+          <p align="center">
+            An ML model that recognizes Star Wars Lego using your webcam!.
+          </p>
+        </div>
   </a>
 </td>
       <td>
