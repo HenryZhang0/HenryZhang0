@@ -19,59 +19,79 @@
     <tr>
       <td>
         <div style="display:flex;flex-direction:column">
+        <a href="https://github.com/HenryZhang0/TikTokTLDR">
         <img src="https://camo.githubusercontent.com/1abe382eb559325d0ae5171c126996e01c2dce4260443ad186e8c24d81350b02/68747470733a2f2f692e696d6775722e636f6d2f3838477776737a2e706e67"  style="max-width: 400px;height:100px;"></img>
-      <a href="https://github.com/HenryZhang0/TikTokTLDR"><b>TikTokTLDR</b></a>
+        </a>
   </div>
       </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>
-        <img src="https://i.imgur.com/spSjbgx.png" style="max-width: 400px;height:100px;"></img>
-        <a href="https://github.com/HenryZhang0/LegoClassification"><b>ML Lego Minifigure Classifier</b></a>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://i.imgur.com/xBzUsaD.png" style="max-width: 400px;height:100px;"></img>
-        <a href="https://github.com/HenryZhang0/NaturalLanguageProcessing"><b>Twitter Natural Language Processing Model</b>
+        <a href="https://github.com/HenryZhang0/TikTokTLDR">
+        <b>TikTokTLDR</b>
         </a>
       </td>
-      <td></td>
-      <td></td>
+      <td>
+JavaScript, React, Flask, Python</td>
     </tr>
     <tr>
       <td>
-        <img src="https://i.imgur.com/8rELtQT.png" style="max-width: 400px;height:100px;"></img>
-        <a href="https://github.com/HenryZhang0/trivia-buzzer"><b>Trivia Buzzer</b></a>
+        <a href="https://github.com/HenryZhang0/LegoClassification">
+        <img src="https://i.imgur.com/spSjbgx.png" style="max-width: 400px;height:100px;"></img>
+  </a>
       </td>
-      <td></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/HenryZhang0/LegoClassification">
+  <b>ML Lego Minifigure Classifier</b>
+  </a>
+</td>
+      <td>
+Python, Tensorflow, OpenCV, Tkinter</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/HenryZhang0/NaturalLanguageProcessing">
+        <img src="https://i.imgur.com/xBzUsaD.png" style="max-width: 400px;height:100px;"></img>
+        </a>
+      </td>
+      <td>
+  <a href="https://github.com/HenryZhang0/NaturalLanguageProcessing"><b>Twitter Natural Language Processing Model</b>
+        </td>
+      <td>
+Python, TensorFlow</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/HenryZhang0/trivia-buzzer">
+        <img src="https://i.imgur.com/8rELtQT.png" style="max-width: 400px;height:100px;"></img>
+        </a>
+      </td>
+      <td>
+<a href="https://github.com/HenryZhang0/trivia-buzzer"><b>Trivia Buzzer</b></a>
+      </td>
+      <td>JavaScript, Node, Socket.io, Express</td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/HenryZhang0/route-setter-app">
           <img src="https://i.imgur.com/zwwy4kY.png"  style="max-width: 400px;height:100px;"></img>
-          <b>Route Setter App</b>
         </a>
       </td>
-      <td></td>
-      <td></td>
+      <td>
+<a href="https://github.com/HenryZhang0/route-setter-app">
+          <b>Route Setter App</b>
+        </a>
+        </td>
+      <td>Unity, C#, MongoDB</td>
     </tr>
     <tr>
       <td>
+      <a href="https://github.com/HenryZhang0/Henry-s-Game-Arcade">
       <img src="https://i.imgur.com/aTkMfB3.png" style="max-width: 400px;height:100px;"></img>
-      <a href="https://github.com/HenryZhang0/Henry-s-Game-Arcade"><b>Game Arcade</b>
         </a>
       </td>
-      <td></td>
-      <td></td>
+      <td>
+<a href="https://github.com/HenryZhang0/Henry-s-Game-Arcade"><b>Game Arcade</b>
+      </td>
+      <td>Python, Java, PyGame, Swing</td>
     </tr>
   </tbody>
 </table>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HenryZhang0) 
