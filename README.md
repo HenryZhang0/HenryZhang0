@@ -32,7 +32,7 @@
             </a>
           </h3>
           <p align="center">
-            TikTok TLDR is a responsive web app that summarizes a  </br> user’s data by analyzing their profile and liked videos.
+            TikTok TLDR is a responsive web app that summarizes users' data by analyzing their profile and liked videos.
           </p>
         </div>
       </td>
